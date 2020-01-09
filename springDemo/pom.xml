@@ -30,16 +30,18 @@
     <scope>test</scope>
 </dependency>
 
-
-
-
-
-
-
-
+<!-- Test dependencies-->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13</version>
+    <scope>test</scope>
+</dependency>
 
 
 </dependencies>
+
+		<!-- end of dependencies tree -->
 
 	<modules>
 		<module>springDemo_data</module>
